@@ -1,0 +1,4 @@
+interface:
+  display_name: "과제 보고서"
+  short_description: "과제 보고서용 코드 줄별 설명과 계산 과정, 표와 수식 작성"
+  default_prompt: "$write-assignment-report 첨부한 코드에서 설명할 부분을 보여주고 줄별로 설명해 줘."
